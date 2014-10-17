@@ -23,7 +23,7 @@
 * [Refactoring CSS: Programming Principles for Designers](https://speakerdeck.com/jlong/refactoring-css-programming-principles-for-designers) by @johnwlong
 * CSS Architecture by @snookca
 * [Web Components and Modular CSS](http://www.slideshare.net/andrewrota/web-components-and-modular-css) by @andrewrota
-* Layout Design Patterns by @pixel_whip
+* [Layout Design Patterns](http://pixelwhip.github.io/layout-design-patterns/#/title-slide) by @pixel_whip
 * [Yo CSS!](http://snugug.github.io/yo-yo/) by @snugug
 
 ## Tools
